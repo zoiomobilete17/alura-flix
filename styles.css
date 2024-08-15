@@ -30,8 +30,10 @@ h1 {
 }
 
 p {
-    font-size: 25px;
+    font-size: 45px;
 }
 
-
+img {
+    height: 360px;
+}
 
