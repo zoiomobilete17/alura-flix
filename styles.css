@@ -37,3 +37,24 @@ img {
     height: 360px;
 }
 
+.categoria-videos img {
+    opacity: 0.5;
+}
+
+.categoria-videos img:hover{
+    opacity: 1.0;
+    border: 1px solid rgb(42, 122, 228)
+}
+
+
+
+.categoria-videos2 img {
+    opacity: 0.5;
+}
+
+.categoria-videos2 img:hover{
+    opacity: 1.0;
+    border: 1px solid rgb(42, 122, 228)
+}
+
+
